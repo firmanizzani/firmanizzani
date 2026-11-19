@@ -1,31 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:312E81,100:8B5CF6&height=240&section=header&text=Firman%20Izzani&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Web%20%26%20Software%20Development&descSize=16&descAlignY=58" alt="Firman Izzani — Information Systems Student, Web and Software Development" />
+<img width="100%" src="./banner-pixel.png" alt="Pixel-art coding workspace overlooking a rainy city at night" />
 
 <div align="center">
 
-**Interfaces. APIs. Databases. And everything I learn along the way.**
+### Hi, I'm Firman 👋
 
-I enjoy turning ideas into applications and exploring how they work behind the scenes.
+Information Systems Student · Web & Software Development
 
-<a href="https://github.com/firmanizzani?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-</a>
+[![Explore repositories](https://img.shields.io/badge/Explore_my_repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firmanizzani?tab=repositories)
 
 </div>
 
 <br />
 
-## / About me
+## About me
 
-I'm **Firman**, an Information Systems student with an interest in
-**web development and software engineering**.
+I enjoy turning ideas into applications and learning how things work
+across the stack — from user interfaces to APIs and databases.
 
-I enjoy working across the stack: building interfaces, developing APIs,
-and connecting applications to databases. I also explore mobile development
-and learn through hands-on projects.
+My interests include **web development**, **software engineering**,
+and **mobile development**. I learn through hands-on projects,
+exploring different tools and improving along the way.
 
 <br />
 
-## / Technologies
+## Technologies
 
 ### Frontend & Mobile
 
@@ -46,14 +44,14 @@ and learn through hands-on projects.
 ![Express.js](https://img.shields.io/badge/Express.js-181818?style=for-the-badge&logo=express&logoColor=white)
 ![Elysia.js](https://img.shields.io/badge/Elysia.js-7C3AED?style=for-the-badge)
 ![Bun](https://img.shields.io/badge/Bun-282A36?style=for-the-badge&logo=bun&logoColor=FBF0DF)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-162015?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-162015?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 ### Databases & Platforms
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NeonDB](https://img.shields.io/badge/NeonDB-0D2923?style=for-the-badge&logo=neon&logoColor=00E599)
+![NeonDB](https://img.shields.io/badge/NeonDB-0D2923?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-163025?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 ### Tools & Workflow
@@ -71,13 +69,13 @@ and learn through hands-on projects.
 
 <div align="center">
 
-### Always building. Always learning.
+**Always building. Always learning.**
 
-Thanks for visiting — take a look around my repositories.
+Thanks for stopping by.
 
-**[github.com/firmanizzani](https://github.com/firmanizzani)**
+[github.com/firmanizzani](https://github.com/firmanizzani)
 
 </div>
 
-<!-- FOOTER -->
+<br />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:312E81,100:8B5CF6&height=120&section=footer" alt="" />
