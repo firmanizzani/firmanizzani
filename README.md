@@ -6,8 +6,6 @@
 
 Information Systems Student · Web & Software Development
 
-[![Explore repositories](https://img.shields.io/badge/Explore_my_repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firmanizzani?tab=repositories)
-
 </div>
 
 <br />
@@ -72,10 +70,6 @@ exploring different tools and improving along the way.
 **Always building. Always learning.**
 
 Thanks for stopping by.
-
-[github.com/firmanizzani](https://github.com/firmanizzani)
-
 </div>
-
 <br />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:312E81,100:8B5CF6&height=120&section=footer" alt="" />
